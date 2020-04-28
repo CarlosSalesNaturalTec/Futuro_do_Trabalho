@@ -4,7 +4,7 @@ De forma complementar, a colaboração, o cuidar do próximo são habilidades in
 Pensando assim decidi agir e criar esse guia, disponível para todos e em especial para a comunidade de jovens negras e negros moradores de periferia.
 Isto com o objetivo de estimular o seu pensamento criativo e lhe habilitar a ser um protagonista neste novo tempo.
 
-<iframe src="https://giphy.com/embed/3bzW3b6ILbN1ZY5974" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ramseysolutions-youre-welcome-for-you-3bzW3b6ILbN1ZY5974">via GIPHY</a></p>
+![Feito pra você](/images/gif1.gif)
 
 Veja a seguir um resumo do material disponível . Clique para mais detalhes
 
