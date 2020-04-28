@@ -1,10 +1,13 @@
-Segundo o relatório sobre o Futuro do Trabalho realizado pelo fórum econômico mundial, aprender sobre programação e inteligência artificial é algo que deve passar a ser considerado por TODO profissional. Seja para dominar uma nova tecnologia ou simplesmente para compreender como a sua profissão será impactada por elas.
+Segundo o relatório sobre o [**Futuro do Trabalho**](https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know) realizado em 2020 pelo [Fórum Econômico Mundial](https://www.weforum.org/events/world-economic-forum-annual-meeting-2020), aprender sobre programação e [inteligência artificial](https://carlossalesti.gitbook.io/inteligencia-artificial-1) é algo que deve passar a ser considerado por **todo profissional**. Seja para dominar a nova tecnologia ou simplesmente para compreender como a sua profissão será impactada por ela.
 
-De forma complementar, a colaboração, o cuidar do próximo são habilidades inerentes a nós seres humanos. 
+De forma complementar, a colaboração, o cuidar do próximo são habilidades inerentes a nós *seres humanos*. 
 Pensando assim decidi agir e criar esse guia, disponível para todos e em especial para a comunidade de jovens negras e negros moradores de periferia.
-Isto com o objetivo de estimular o seu pensamento criativo e lhe habilitar a ser um protagonista neste novo tempo.
 
-![Feito pra você](/images/gif1.gif)
+<p align="center">
+  <img src="images/gif1.gif">
+</p>
+
+Isto com o objetivo de estimular o seu **pensamento criativo** e lhe habilitar a ser um **protagonista** neste novo tempo.
 
 Veja a seguir um resumo do material disponível . Clique para mais detalhes
 
