@@ -1,13 +1,16 @@
-Segundo o relatório sobre o [**Futuro do Trabalho**](https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know) realizado em 2020 pelo [Fórum Econômico Mundial](https://www.weforum.org/events/world-economic-forum-annual-meeting-2020), aprender sobre **Programação e Inteligência Artificial** é algo que deve passar a ser considerado por **todo profissional**. Seja para dominar a nova tecnologia ou simplesmente compreender como a sua profissão será impactada por ela.
+Segundo o relatório sobre o [**Futuro do Trabalho**](https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know) realizado em 2020 pelo [Fórum Econômico Mundial](https://www.weforum.org/events/world-economic-forum-annual-meeting-2020)
 
-De forma complementar, a colaboração e o "cuidar do próximo" são habilidades *não técnicas*, necessárias e inerentes a nós seres humanos. 
-Pensando assim decidi criar este guia, para ajudar amigos e parceiros de trabalho bem como a jovens negras e negros com um material acessível e relevante. 
+> *"Nos próximos anos a automação se tornará cada vez mais presente e muitos empregos, como os conhecemos, deixarão de existir."* 
+
+Sendo asim, aprender sobre **Programação e Inteligência Artificial** é algo que deve ser considerado por **todo profissional**. Seja para dominar estas tecnologias ou simplesmente compreender como a sua profissão está sendo impactada por elas.
+
+De forma complementar, a colaboração e o *cuidar do próximo* são habilidades **não técnicas**, necessárias e inerentes a nós seres humanos. Pensando assim decidi criar e compartilhar com **você** este guia com conteúdo relevante, estruturado e acessível.
+
+Isto com o objetivo de estimular o seu **pensamento criativo** e lhe habilitar a ser um **protagonista** neste novo tempo. #Fica_a_dica
 
 <p align="center">
   <img src="images/gif1.gif">
 </p>
-
-Isto com o objetivo de estimular o seu **pensamento criativo** e lhe habilitar a ser um **protagonista** neste novo tempo.
 
 Veja a seguir um resumo do material disponível . Clique para mais detalhes
 
@@ -35,9 +38,8 @@ Titulo | Mídia | Tipo
 
 # Canais Youtube
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/00abMGMG53Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/00abMGMG53Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-<iframe width="280" height="158" src="https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 #  Livros		
 
 # Meus Contatos 
