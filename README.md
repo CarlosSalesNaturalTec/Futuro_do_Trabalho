@@ -11,29 +11,36 @@ Isto com o objetivo de estimular o seu **pensamento criativo** e lhe habilitar a
 
 Veja a seguir um resumo do material disponível . Clique para mais detalhes
 
-Titulo | Instituição | Tipo | Valor
------- | ----------- | ---- | -----
-Gestão de Mídias Sociais | Rock Content | Curso On Line | Gratuito	
-Introdução à Ciência de Dados | Data Science Academy | Curso On Line | Gratuito
-Machine Learning | Coursera | Curso On Line | Gratuito
-Inteligência Artificial | Natural Tecnologia  | e-book | Gratuito
-Machine Learning | Natural Tecnologia  | e-book | Gratuito
-HTML | w3schools | Tutorial | Gratuito
-Javascript | w3schools | Tutorial | Gratuito
-PHP | w3schools | Tutorial | Gratuito
-Python | w3schools | Tutorial | Gratuito
-Programção em Python do básico ao avançado | Udemy | Abaixo de R$ 50,00
-GIT e contribuições para projetos Open Source | Udemy | Curso On Line | Gratuito
-DataScience - Vizualização de dados com Python | Udemy | Curso On Line | Gratuito
-Pizza de Dados | Data Science | PODCAST | Gratuito
-All Saint Bays | Eco-sistema de Startups Bahia | PODCAST | Gratuito
-Eureca | Carreira | PODCAST | Gratuito
+Titulo | Mídia | Tipo
+------ | ----- | ----
+[HTML](https://www.w3schools.com/html/default.asp) | Tutorial | Programação
+[PHP](https://www.w3schools.com/php/default.asp) | Tutorial | Programação
+[Javascript](https://www.w3schools.com/js/default.asp) | Tutorial | Programação
+[Banco de Dados Relacionais](https://www.w3schools.com/sql/default.asp) | Tutorial | Programação
+[Python](https://www.w3schools.com/python/default.asp) | Tutorial | Programação
+[Programção em Python do básico ao avançado](https://www.udemy.com/share/1013uIBksSeFxXRno=/) | Curso on-line | Programação
+[GIT e contribuições para projetos Open Source](https://www.udemy.com/share/101qPMBksSeFxXRno=/) | Curso on-line | Programação
+ | | 
+[Introdução a Inteligência Artificial](https://carlossalesti.gitbook.io/inteligencia-artificial-1/) | e-book | I.A.
+[Introdução ao Machine Learning](https://carlossalesti.gitbook.io/machine-learning/) | e-book | I.A.
+[Aprendizagem Automática](https://www.coursera.org/learn/machine-learning) | Curso on-line | I.A.
+ | | 
+[Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/pages/curso-introducao-a-ciencia-de-dados) | Curso On Line | Ciência de Dados
+[DataScience - Vizualização de dados com Python](https://www.udemy.com/course/visualizacao-de-dados-com-python/) | Curso On Line | Ciência de Dados
+[Pizza de Dados](https://podcast.pizzadedados.com/) | PODCAST | Ciência de Dados
+ | | 
+[Gestão de Mídias Sociais](https://university.rockcontent.com/cursos/gestao-de-midias-sociais) | Curso On Line | Carreira	
+[Eureca](https://eureca.me/) | PODCAST | Carreira
+[All Saint Bays](https://allsaintsbay.com.br/) | PODCAST | Startups Bahia
 
 # Canais Youtube
 
+<iframe width="280" height="158" src="https://www.youtube.com/embed/00abMGMG53Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+<iframe width="280" height="158" src="https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 #  Livros		
 
-Meus Contatos 
+# Meus Contatos 
 	My Page (Github pages)
 	Github
 	Linkedin
